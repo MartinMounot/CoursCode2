@@ -69,3 +69,20 @@ a:hover {
   text-decoration: none;
 }
 
+.feature {
+  border: 5px 
+  solid blue;
+  margin: 15px;
+  padding: 15px 0;
+  text-align: center;
+  width: 400px;
+  background: #FAFAFA;
+}
+
+#apropos{
+  border: 5px 
+  solid blue; 
+  margin: 0 auto;
+  width: 80%;
+  background: #FAFAFA;
+}
